@@ -1,6 +1,6 @@
 # Cam's Portfolio
 
-Welcome to my professional portfolio. I'm Camberly Hernandez, a neuroscientist transitioning into the field of data science. My mission is to apply my technical coding skills and data science expertise to develop AI models that can accelerate scientific discoveries in healthcare.
+Welcome to my professional portfolio. I'm Cam a neuroscientist transitioning into the field of data science. My mission is to apply my technical coding skills and data science expertise to develop AI models that can accelerate scientific discoveries in healthcare.
 
 - **Technical Expertise**: Python,  R,  SQL,  Excel and Tableau 
 ## Education 
